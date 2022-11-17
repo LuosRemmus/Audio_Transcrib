@@ -5,9 +5,9 @@ import boto3
 import requests
 import time
 
-API_key= 'AQVN3V-ylMoGU1_bn40Lpai6_MgejNvqhblK_KLo'
-key_id = 'YCAJEf_H4Vp2qEircTSe_-99t'
-secret_key = 'YCMQO-IWCX8zJvg-LFrhCWKGC_UeEcgtp1BpPfsS'
+API_key= 'str'     # Укажите свой API ключ
+key_id = 'str'     # Укажите свой Key ID
+secret_key = 'str' # Укажите свой Secret ID
 
 
 def work_with_backet(action: str, audio: str):
